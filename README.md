@@ -71,16 +71,6 @@ CharacterME/
 └── package.json             # Dependencias y scripts
 ```
 
-## 🎨 Características del Diseño
-
-### Paleta de Colores
-
-- **Primario**: `#8b5cf6` (Morado)
-- **Secundario**: `#ec4899` (Rosa)
-- **Acento**: `#10b981` (Verde)
-- **Fondo**: `#f8fafc` (Gris claro)
-- **Superficie**: `#ffffff` (Blanco)
-
 ## 🌐 API Utilizada
 
 CharacterME utiliza la [API de Jikan](https://jikan.moe/), una API no oficial de MyAnimeList que proporciona acceso a:
