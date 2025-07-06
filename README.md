@@ -8,12 +8,10 @@ Una aplicación web moderna para explorar el mundo del anime y sus personajes fa
 
 ## ✨ Características
 
-- 🔍 **Búsqueda avanzada** de anime y personajes
+- 🔍 **Búsqueda** de anime y personajes
 - 🎨 **Diseño moderno** con interfaz intuitiva y responsive
-- 📱 **Totalmente responsive** para dispositivos móviles y desktop
 - ⚡ **Carga rápida** con lazy loading de imágenes
-- 🎯 **Paginación inteligente** para navegar por los resultados
-- 🌈 **Tema atractivo** con gradientes y animaciones suaves
+- 🎯 **Paginación** para navegar por los resultados
 - 📊 **Información detallada** de anime y personajes
 
 ## 🚀 Tecnologías Utilizadas
@@ -21,7 +19,7 @@ Una aplicación web moderna para explorar el mundo del anime y sus personajes fa
 - **Vue.js 3** - Framework de JavaScript progresivo
 - **Vite** - Herramienta de construcción rápida
 - **Axios** - Cliente HTTP para las peticiones a la API
-- **CSS3** - Estilos modernos con variables CSS y gradientes
+- **CSS** - Estilos modernos con variables CSS y gradientes
 - **Jikan API** - API no oficial de MyAnimeList
 
 ## 📦 Instalación
@@ -83,42 +81,6 @@ CharacterME/
 - **Fondo**: `#f8fafc` (Gris claro)
 - **Superficie**: `#ffffff` (Blanco)
 
-### Tipografía
-
-- **Fuente principal**: Inter (Google Fonts)
-- **Pesos**: 300, 400, 500, 600, 700, 800
-
-### Animaciones
-
-- Transiciones suaves en hover
-- Efectos de elevación en tarjetas
-- Animaciones de carga personalizadas
-- Gradientes animados
-
-## 🔧 Scripts Disponibles
-
-```bash
-# Servidor de desarrollo
-npm run dev
-
-# Construcción para producción
-npm run build
-
-# Vista previa de la construcción
-npm run preview
-
-# Linting
-npm run lint
-```
-
-## 📱 Responsive Design
-
-La aplicación está optimizada para:
-
-- **Desktop**: 1200px+
-- **Tablet**: 768px - 1199px
-- **Mobile**: 320px - 767px
-
 ## 🌐 API Utilizada
 
 CharacterME utiliza la [API de Jikan](https://jikan.moe/), una API no oficial de MyAnimeList que proporciona acceso a:
@@ -128,31 +90,3 @@ CharacterME utiliza la [API de Jikan](https://jikan.moe/), una API no oficial de
 - Imágenes y multimedia
 - Estadísticas y puntuaciones
 
-## 🤝 Contribuir
-
-1. Fork el proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
-
-## 🙏 Agradecimientos
-
-- [Jikan API](https://jikan.moe/) por proporcionar acceso a los datos de MyAnimeList
-- [Vue.js](https://vuejs.org/) por el excelente framework
-- [Vite](https://vitejs.dev/) por las herramientas de desarrollo
-- [Inter Font](https://rsms.me/inter/) por la tipografía
-
-## 📞 Contacto
-
-- **Desarrollador**: [Tu Nombre]
-- **Email**: tu-email@ejemplo.com
-- **GitHub**: [@tu-usuario](https://github.com/tu-usuario)
-
----
-
-⭐ Si te gusta este proyecto, ¡dale una estrella en GitHub!
